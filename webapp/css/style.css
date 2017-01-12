@@ -1,0 +1,12 @@
+/* Enter your custom styles here */
+.myBookManagement .myCustomButton.sapMBtn {
+  margin-right: 0.125rem
+}
+
+html[dir="rtl"] .myBookManagement .myCustomButton.sapMBtn {
+  margin-left: 0.125rem;
+  margin-right: 0
+}
+.myBookManagement .myCustomText {
+  font-weight: bold;
+}
